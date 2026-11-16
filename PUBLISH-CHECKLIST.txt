@@ -1,0 +1,8 @@
+TECHNONILE — BEFORE PUBLISHING
+[ ] Add WhatsApp number or email in js/script.js (SITE_CONFIG).
+[ ] Confirm location and service descriptions in both languages.
+[ ] Replace sample portfolio previews with real project screenshots when available.
+[ ] Check that the company name/brand is final.
+[ ] Upload all files with index.html at repository root.
+[ ] Enable GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root).
+[ ] Test English and Arabic on desktop and mobile.
